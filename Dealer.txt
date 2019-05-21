@@ -1,0 +1,21 @@
+John Elway Dodge
+1
+2
+VIN123
+Dodge
+Ram 1500 Quad Cab
+2017
+45186.00
+VIN456
+Chevrolet
+Traverse Premier SUV
+2017
+47868.00
+Tesla Cherry Creek
+25
+1
+VIN789
+Tesla
+Model X
+2017
+105200
